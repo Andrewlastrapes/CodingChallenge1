@@ -1,0 +1,221 @@
+
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|                    |
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|                    |
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|                    |Need to create a canvas before creating shapes
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|                    |
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|                    |
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|                    |Need to create a canvas before creating shapesNeed to create a canvas before creating shapes
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|                    |
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|                    |
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|                    |
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|                    |
+|                    |
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|                    |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|                    |
+|                    |
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|                    |
+|                    |
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|--------------------|
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|--------------------|
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|--------------------|
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|--------------------|
+|                    |
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|                    |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|--------------------|
+|                    |
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|--------------------|
+|                    |
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|                    |
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|                    |
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|                    |
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|--------------------|
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|--------------------|
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|--------------------|
+|--------------------|
+|                    |
+|xxxxxx              |
+|                    |
+|--------------------|
+|--------------------|
+|                    |
+|                    |
+|     x              |
+|     x              |
+|--------------------|
+|               xxxxx|
+|               x   x|
+|               xxxxx|
+|--------------------|
+|          zzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|zzzzzzzzzzzzzzzzzzzz|
+|--------------------|
